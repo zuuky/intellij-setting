@@ -1,0 +1,6 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl alt s" second-keystroke="shift ctrl s" />
+  </action>
+</keymap>
