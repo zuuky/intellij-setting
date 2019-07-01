@@ -5,7 +5,7 @@
         <option name="goals">
           <list>
             <Goal>
-              <option name="commandLine" value="clean install -T 1C -Dmaven.test.skip=true  -Dmaven.compile.fork=true" />
+              <option name="commandLine" value="clean package -Dmaven.compile.fork=true -DskipTests=true " />
             </Goal>
             <Goal>
               <option name="commandLine" value="clean" />
