@@ -43,7 +43,6 @@
   </inspection_tool>
   <inspection_tool class="SpringJavaAutowiredFieldsWarningInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlResolveInspection" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="WeakerAccess" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="SUGGEST_PACKAGE_LOCAL_FOR_MEMBERS" value="true" />
