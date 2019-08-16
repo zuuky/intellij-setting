@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://update.zeroturnaround.com/jrebel/rebel-2_1.xsd" location="$USER_HOME$/.IntelliJIdea2019.1/system/extResources/20b583dc_rebel-2_1.xsd" />
+    <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/.IntelliJIdea2019.1/system/extResources/2889bd79_svg11.dtd" />
   </component>
 </application>
