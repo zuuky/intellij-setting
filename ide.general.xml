@@ -9,5 +9,6 @@
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="ide.tooltip.initialDelay" value="499" />
+    <entry key="documentation.show.toolbar" value="true" />
   </component>
 </application>
