@@ -40,6 +40,12 @@
             <Goal>
               <option name="commandLine" value="spring-boot:run -DskipTests" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="-u clean install" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="-U clean install -DskipTests" />
+            </Goal>
           </list>
         </option>
       </Goals>
