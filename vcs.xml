@@ -10,8 +10,20 @@
           <option name="url" value="https://github.com/zuuky/ng-learn.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lvyahui8/feego-common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Caratacus/Crown.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:zuuky/zuky.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\zhang" />
+    <option name="cloneParentDir" value="D:\idea_workspace" />
   </component>
 </application>
