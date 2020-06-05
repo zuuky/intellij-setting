@@ -3,6 +3,8 @@
     <option name="profile">
       <Profile>
         <option name="convertByteOrShortToInt" value="true" />
+        <option name="generateWithIfTest" value="true" />
+        <option name="ifTestStringNullAndEmpty" value="true" />
         <option name="usejava8LocalDateTimeEct" value="true" />
         <option name="valid" value="true" />
       </Profile>

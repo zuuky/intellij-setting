@@ -1,5 +1,5 @@
 <application>
-  <component name="IgnoreSettings" missingGitignore="true" ignoredFileStatus="true" outerIgnoreRules="true" outerIgnoreWrapperHeight="92" version="3.1.2.191" starredTemplates="" unignoreActions="true" hideIgnoredFiles="true" notifyIgnoredEditing="true">
+  <component name="IgnoreSettings" missingGitignore="true" ignoredFileStatus="true" outerIgnoreRules="true" outerIgnoreWrapperHeight="100" version="3.1.2.191" starredTemplates="" unignoreActions="true" hideIgnoredFiles="false" notifyIgnoredEditing="true">
     <languages>
       <language id="Bazaar" NEW_FILE="true" ENABLE="true" />
       <language id="CloudFoundry" NEW_FILE="true" ENABLE="false" />
@@ -31,39 +31,13 @@
       <language id="Up" NEW_FILE="true" ENABLE="false" />
     </languages>
     <userTemplates>
-      <template name="Example user template">gen
-HELP.md
-target/
-out/
-.mvn/
-logs/
-*.class
-*.log
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
+      <template name="Example user template">### Example user template
 
-### IntelliJ IDEA ###
+# IntelliJ project files
 .idea
-*.iws
 *.iml
-*.ipr
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-
-### VS Code ###
-.vscode/</template>
+out
+gen</template>
     </userTemplates>
   </component>
 </application>

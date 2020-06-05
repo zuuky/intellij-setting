@@ -5,7 +5,7 @@
         <option name="goals">
           <list>
             <Goal>
-              <option name="commandLine" value="clean install -DskipTests=true -Dmaven.compile.fork=true" />
+              <option name="commandLine" value="clean package -Dmaven.compile.fork=true -DskipTests=true " />
             </Goal>
             <Goal>
               <option name="commandLine" value="clean" />
@@ -40,9 +40,13 @@
             <Goal>
               <option name="commandLine" value="spring-boot:run -DskipTests" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="-U clean install -DskipTests" />
+            </Goal>
           </list>
         </option>
       </Goals>
     </option>
+    <option name="useIgnoredPoms" value="true" />
   </component>
 </application>
