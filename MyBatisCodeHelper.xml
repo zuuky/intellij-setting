@@ -2,8 +2,8 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="autoMergeJavaModel" value="false" />
         <option name="convertByteOrShortToInt" value="true" />
-        <option name="foldGeneratedMethod" value="true" />
         <option name="generateMethodInService" value="true" />
         <option name="generateWithIfTest" value="true" />
         <option name="ifTestStringNullAndEmpty" value="true" />
