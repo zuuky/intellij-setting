@@ -8,7 +8,6 @@
         <option name="generateWithIfTest" value="true" />
         <option name="ifTestStringNullAndEmpty" value="true" />
         <option name="usejava8LocalDateTimeEct" value="true" />
-        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>
