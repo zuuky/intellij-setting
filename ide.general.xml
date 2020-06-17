@@ -10,5 +10,6 @@
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="ide.tooltip.initialDelay" value="499" />
     <entry key="documentation.show.toolbar" value="true" />
+    <entry key="ide.balloon.shadow.size" value="0" />
   </component>
 </application>
