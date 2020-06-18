@@ -2,4 +2,7 @@
   <JavaCodeStyleSettings>
     <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
   </JavaCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
 </code_scheme>
